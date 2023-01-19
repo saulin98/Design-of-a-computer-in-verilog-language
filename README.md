@@ -1,4 +1,4 @@
-# Design computer in verilog
+# Desig of a computer in verilog language
 Design-a-computer-in-VERILOG-which-must-read-a-sequence-of-instructions-according-to-a-ISA (Instruction Set Architecture)
 
 Requirements of software for see it in working
